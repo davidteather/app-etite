@@ -4,6 +4,7 @@ import Filters from './Filters';
 import ImageSlides from './ImageSlides';
 import RestaurantData from './data.json';
 import RestaurantWrapper from './RestaurantWrapper';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function getRandomRestaurant() {
   var RestaurantKeys = Object.keys(RestaurantData);

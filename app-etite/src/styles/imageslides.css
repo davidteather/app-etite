@@ -1,0 +1,33 @@
+img {
+    border-radius: 8px;
+    width: 75%;
+    height: 80vh;
+    object-fit: cover;
+  transition: opacity 1s ease-in-out;
+}
+
+.image-container {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    object-fit: cover; 
+}
+
+.control-left {
+    background-color: transparent;
+    border: 0;
+    font-size: 700%;
+}
+
+.control-right {
+    background-color: transparent;
+    border: 0;
+    font-size: 700%;
+}
+
+.image-slides {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
