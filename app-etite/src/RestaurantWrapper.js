@@ -1,8 +1,10 @@
+import ImageSlides from "./components/ImageSlides";
 export default function RestaurantWrapper(props) {
-  var resturant = props.restaurant;
+  var restaurant = props.restaurant;
   return (
     <>
-      {resturant.title}
+      <ImageSlides restaurant={restaurant} newGenerator={props.newGenerator} />
+      {restaurant.title}
     </>
   );
 };
