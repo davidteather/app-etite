@@ -6,7 +6,8 @@ import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io"
 const slideImages = [
   {
     url: 'https://media-cdn.tripadvisor.com/media/photo-o/06/6e/4f/17/cannelicchi-alla-di-scala.jpg',
-    caption: 'Image 1'
+    title: 'Food',
+    address: '420 Chadbourne Drive'
   },
   {
     url: 'https://media-cdn.tripadvisor.com/media/photo-o/05/37/4e/4b/chateaubriand-potatoes.jpg',
@@ -30,21 +31,12 @@ function ImageSlides() {
   }
   return (
     <div className="image-slides">
-      <div>
-        <button className='control-left'>
-          <IoIosArrowBack />
-        </button>
-      </div>
       <div class="image-container">
         <img
           src={imgSrc}
           alt="img"
+          onClick={goForward}
         />
-      </div>
-      <div>
-        <button className='control-right' onClick={goForward}>
-          <IoIosArrowForward />
-        </button>
       </div>
     </div>
   );
