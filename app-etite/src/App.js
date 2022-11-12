@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import Filters from './Filters';
-import ImageSlides from './ImageSlides';
+import ImageSlides from './components/ImageSlides';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
