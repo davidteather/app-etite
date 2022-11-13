@@ -1,5 +1,5 @@
 import ImageSlides from "./components/ImageSlides";
-import Filters from "./Filters";
+import Filters from "./components/Filters";
 import { useState } from "react";
 export default function RestaurantWrapper(props) {
   var restaurant = props.restaurant;
