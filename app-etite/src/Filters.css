@@ -11,22 +11,30 @@
   height: 10px;
 }
 .dropdown.active {
-  height: 40%;
+  height: 15vh;
   background-color: white;
   align-items: center;
+}
 
+@media only screen and (max-width: 800px) {
+  .dropdown.active {
+      height: 20vh;
+  }
+}
+
+@media only screen and (max-width: 555px) {
+  .dropdown.active {
+      height: 30vh;
+  }
 }
 
 .filterContainer {
   display: flex;
   flex-wrap: wrap;
   align-content: space-between;
-  gap: 5%;
+  justify-content: center;
   width: 100%;
   margin: auto;
-  width: 50%;
-  margin-left: 32%;
-  margin-right: 20%;
 }
 
 .filter {
@@ -38,7 +46,7 @@
   padding: 2.5%;
   white-space: pre-wrap;
   text-align: center;
-  width: 200px;
+  width: 250px;
 }
 .inactive .filter {
   display: none;
