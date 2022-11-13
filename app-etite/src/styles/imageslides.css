@@ -59,6 +59,9 @@ img {
     .details-menu {
         left: 2%;
     }
+    img {
+        height: 60vh;
+    }
 }
 
 .details-menu {
