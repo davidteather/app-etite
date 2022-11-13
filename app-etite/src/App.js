@@ -7,7 +7,7 @@ import RestaurantWrapper from './RestaurantWrapper';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 
-function getRandomRestaurant() {
+function getRandomRestaurant(location) {
   var RestaurantKeys = Object.keys(RestaurantData);
   while (true) {
     var randomKey = RestaurantKeys[Math.floor(Math.random() * RestaurantKeys.length)];
@@ -19,8 +19,12 @@ function getRandomRestaurant() {
 }
 
 function App() {
+  const location = navigator.geolocation.getCurrentPosition(function (pos) {
+    console.log(pos)
+  })
+
   function newRestaurantGenerator() {
-    setRestaurant(getRandomRestaurant());
+    setRestaurant(getRandomRestaurant(location));
   }
   function onKey(e) {
     if (e.keyCode === 32) {
