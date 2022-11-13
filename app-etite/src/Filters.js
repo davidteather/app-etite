@@ -6,13 +6,13 @@ import './Filters.css';
 function Filter(props) {
   const [data, setData] = useState(props.def)
   return (
-    <div class="slider">
+    <div className="slider">
       <input
         type="range"
         min={props.min}
         max={props.max}
         defaultValue={props.def}
-        class="slider"
+        className="slider"
         id="myRange"
         onChange={(e, val) => props.setData(e.target.value)}
       />
