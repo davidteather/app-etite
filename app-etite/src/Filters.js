@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { AiOutlineArrowDown } from 'react-icons/ai';
 import './Filters.css';
-import ReactSlider from "react-slider";
+//import ReactSlider from "react-slider";
 
 function Filter(props) {
   const [data, setData] = useState(props.def)
