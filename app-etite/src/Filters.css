@@ -1,0 +1,50 @@
+.filters {
+  z-index: 1;
+  position: absolute;
+  right: 0%;
+  display: flex;
+  transition-duration: 0.5s;
+  width: 100%;
+}
+.filters.inactive {
+  height: 10px;
+}
+.filters.active {
+  height: 300px;
+  background-color: white;
+  visibility: visible;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition-duration: 0.5s;
+  font-size: 40px;
+
+  margin-top: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+.inactive ul {
+  display: none;
+  visibility: hidden;
+}
+.inactive li {
+  display: none;
+  visibility: hidden;
+}
+
+.active ul {
+  display: flex;
+}
+.active li {
+  display: inline;
+  padding: 5px;
+  background-color: white;
+}
+.active button {
+  transform: scaleY(-1);
+}
