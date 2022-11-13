@@ -53,6 +53,8 @@ function App() {
       case "$$$":
         price_val = 3;
         break;
+      case "$$$$":
+        price_val = 4;
       default:
         break
     }

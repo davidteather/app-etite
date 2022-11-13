@@ -58,7 +58,7 @@ function Filters(props) {
           Minimum Rating: {stars}
         </div>
         <div class="filter">
-        <Filter min="1" max="3" def="2" filterCategory="price" setFilters={props.setFilters} setData={updateFilter} />
+        <Filter min="1" max="4" def="2" filterCategory="price" setFilters={props.setFilters} setData={updateFilter} />
           Max Price: {price}
         </div>
         <div class="filter">
