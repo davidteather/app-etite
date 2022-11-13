@@ -10,6 +10,7 @@
     justify-content: center;
     object-fit: cover; 
     float: left;
+    position: relative;
 }
 
 img {
@@ -78,3 +79,27 @@ img {
     width: 100px;
     background-color: aliceblue;
 } */
+
+.old {
+    position: absolute;
+    top: 0%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
+    animation: slide_out 0.5s forwards;
+  }
+  
+  .current {
+    animation: slide_in 0.5s forwards;
+  }
+  
+  @keyframes slide_in {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(0%); }
+  }
+  
+  @keyframes slide_out {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(100%); }
+  }

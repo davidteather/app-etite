@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import "../styles/imageslides.css"
 import { FcInfo } from "react-icons/fc"
 
@@ -42,18 +42,38 @@ function ImageSlides(props) {
     }
   }
 
+  const [oldRestaurant, setOldRestaurant] = useState(props.restaurant);
+
+  useEffect(() => {
+    return(() => {
+      setOldRestaurant(props.restaurant);
+    })
+  }, [props])
+
   return (
     <><div className="image-slides">
       <div class="image-container">
-        <img
-          id="image_loader"
-          src={props.restaurant.thumbnail}
-          //onError={retryRequest(props.restaurant.thumbnail)}
-          onError={() => retryRequest(props.restaurant.thumbnail)}
-          alt={props.restaurant.description}
-          onClick={props.newGenerator}
-        />
-        {/* <DetailsMenu restaurant={props.restaurant}/> */}
+        <div key={props.restaurant.description} className='current'>
+          <img
+            id="image_loader"
+            src={props.restaurant.thumbnail}
+            //onError={retryRequest(props.restaurant.thumbnail)}
+            onError={() => retryRequest(props.restaurant.thumbnail)}
+            alt={props.restaurant.description}
+            onClick={props.newGenerator}
+          />
+          {/* <DetailsMenu restaurant={props.restaurant}/> */}
+        </div>
+        <div key={oldRestaurant.description} className='old'>
+          <img
+            id="image_loader"
+            src={oldRestaurant.thumbnail}
+            //onError={retryRequest(props.restaurant.thumbnail)}
+            onError={() => retryRequest(oldRestaurant.thumbnail)}
+            alt={oldRestaurant.description}
+          />
+          {/* <DetailsMenu restaurant={props.restaurant}/> */}
+        </div>
       </div>
     </div>
     </>
