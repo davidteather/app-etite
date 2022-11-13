@@ -105,9 +105,15 @@ function App() {
       newRestaurantGenerator();
     }
   }
+  
   return (
     <div className="App" tabIndex="0" onKeyDown={onKey}>
-      <RestaurantWrapper setFilters={setFilters} restaurant={restaurant} newGenerator={newRestaurantGenerator} />
+      <RestaurantWrapper
+        setFilters={setFilters}
+        restaurant={restaurant}
+        newGenerator={newRestaurantGenerator}
+        restaurantIndex={RestaurantIndex}
+      />
     </div>
   );
 }
