@@ -9,7 +9,9 @@ data = {}
 def iterate_return(data, raw):
     # Update thumbnail to have param of w1920-h1080 not the thumbnail one go full res
     for restaurant in raw.get('local_results', []):
-        if restaurant.get('thumbnail') is not None:
+        if "streetviewpixels" in restaurant.get('thumbnail', "streetviewpixels"):
+            continue
+        else:
             thumbnail = restaurant['thumbnail'].split("=")[0]
             restaurant['thumbnail'] = f"{thumbnail}=w1920-h1080"
             data[restaurant['place_id']] = restaurant

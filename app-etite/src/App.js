@@ -9,17 +9,27 @@ import React, { useState } from 'react';
 
 function getRandomRestaurant() {
   var RestaurantKeys = Object.keys(RestaurantData);
-  var randomKey = RestaurantKeys[Math.floor(Math.random() * RestaurantKeys.length)];
-  return RestaurantData[randomKey];
+  while (true) {
+    var randomKey = RestaurantKeys[Math.floor(Math.random() * RestaurantKeys.length)];
+    var restaurant = RestaurantData[randomKey];
+    if (restaurant.thumbnail) {
+      return restaurant;
+    }
+  }
 }
 
 function App() {
   function newRestaurantGenerator() {
     setRestaurant(getRandomRestaurant());
   }
+  function onKey(e) {
+    if (e.keyCode === 32) {
+      newRestaurantGenerator();
+    }
+  }
   const [restaurant, setRestaurant] = useState(getRandomRestaurant());
   return (
-    <div className="App">
+    <div className="App" tabIndex="0" onKeyDown={onKey}>
       <Filters/>
       <RestaurantWrapper restaurant={restaurant} newGenerator={newRestaurantGenerator}/>
     </div>
