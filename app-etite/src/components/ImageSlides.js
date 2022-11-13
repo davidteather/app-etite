@@ -64,7 +64,7 @@ function ImageSlides(props) {
           />
           {/* <DetailsMenu restaurant={props.restaurant}/> */}
         </div>
-        <div key={oldRestaurant.description} className='old'>
+        <div key={oldRestaurant.title} className='old'>
           <img
             id="image_loader"
             src={oldRestaurant.thumbnail}

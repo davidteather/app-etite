@@ -86,20 +86,20 @@ img {
     left: 0;
     right: 0;
     margin: auto;
-    
+
     animation: slide_out 0.5s forwards;
-  }
-  
-  .current {
-    animation: slide_in 0.5s forwards;
-  }
-  
-  @keyframes slide_in {
+}
+
+.current {
+    animation: slide_in 0.5s forwards;  
+}
+
+@keyframes slide_in {
     0% { transform: translateX(-100%); }
     100% { transform: translateX(0%); }
-  }
-  
-  @keyframes slide_out {
+}
+
+@keyframes slide_out {
     0% { transform: translateX(0%); }
     100% { transform: translateX(100%); }
-  }
+}
