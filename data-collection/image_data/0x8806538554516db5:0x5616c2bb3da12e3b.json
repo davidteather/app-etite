@@ -1,0 +1,135 @@
+{
+    "search_metadata": {
+        "id": "6371138579627c4b96dbb8ec",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/157fd226dd331047/6371138579627c4b96dbb8ec.json",
+        "created_at": "2022-11-13 15:55:49 UTC",
+        "processed_at": "2022-11-13 15:55:49 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x8806538554516db5:0x5616c2bb3da12e3b!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/157fd226dd331047/6371138579627c4b96dbb8ec.html",
+        "prettify_html_file": "https://serpapi.com/searches/157fd226dd331047/6371138579627c4b96dbb8ec.prettify",
+        "total_time_taken": 0.64
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x8806538554516db5:0x5616c2bb3da12e3b",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Menu",
+            "id": "CgIYIQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Vibe",
+            "id": "CgIYIg"
+        },
+        {
+            "title": "Take-out",
+            "id": "Cg0KCS9tLzAxdzUzYjAB"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMmaK57PXENorPkQQcIsVsb_LbFPchBDIQpv4__=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMmaK57PXENorPkQQcIsVsb_LbFPchBDIQpv4__=w1125-h1500-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNK_x_EUAgNUl0_qg6L-5paFhBStdgjRolMSStz=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNK_x_EUAgNUl0_qg6L-5paFhBStdgjRolMSStz=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPyqqtx791o2ZMdCiLaRtJV2Lhhk1kL1eVJTd1B=w203-h199-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPyqqtx791o2ZMdCiLaRtJV2Lhhk1kL1eVJTd1B=w2650-h2605-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkxAkpg-eo6W4aA9D-P2p2RDciEETiHFv86Ebu=w203-h134-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPkxAkpg-eo6W4aA9D-P2p2RDciEETiHFv86Ebu=w4032-h2671-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNMj9PIFp1H96TFs6Uc0Ojo8v7g4PlY6FBGa82j=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNMj9PIFp1H96TFs6Uc0Ojo8v7g4PlY6FBGa82j=w828-h621-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYEdTkaxgx4XxBgV7uMqvARHa-UFkSN8As0uPF=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNYEdTkaxgx4XxBgV7uMqvARHa-UFkSN8As0uPF=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNt84aml9uBSdgIbDS00ZIAiQKainY7CcNQ3E2w=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNt84aml9uBSdgIbDS00ZIAiQKainY7CcNQ3E2w=w828-h1104-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNau077mnoyNS6Jthizl2652EzBLVJPtsUd7i2i=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNau077mnoyNS6Jthizl2652EzBLVJPtsUd7i2i=w1536-h2048-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnQg8tFM-JNRi-lIArfKdI6KYOLTWA-sWmct81=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOnQg8tFM-JNRi-lIArfKdI6KYOLTWA-sWmct81=w828-h621-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOspxuzRjR-MkGFJOrHYAhwF7849KyCKrIxOd3K=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOspxuzRjR-MkGFJOrHYAhwF7849KyCKrIxOd3K=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMIfkCWF1NY3zMZSG3L-OYuWcyHdQYPW1BmGH94=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMIfkCWF1NY3zMZSG3L-OYuWcyHdQYPW1BmGH94=w1125-h1500-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNIyGhBAEY1AO2mY94e_qdEkAxIiFwyvNhBCzEf=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNIyGhBAEY1AO2mY94e_qdEkAxIiFwyvNhBCzEf=w1536-h2048-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPo1_7h1FQb7jev2NWAI2Paajnq5wDvf4Ar2cma=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPo1_7h1FQb7jev2NWAI2Paajnq5wDvf4Ar2cma=w828-h621-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPRdLEtLVGq0wB9_8bFKl_PUid3HKHv74qyPXfW=w203-h311-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPRdLEtLVGq0wB9_8bFKl_PUid3HKHv74qyPXfW=w1943-h2983-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNfPsYzQSb0jtyNSZyur7b3EcKD7O1H8YkGadwS=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNfPsYzQSb0jtyNSZyur7b3EcKD7O1H8YkGadwS=w1536-h2048-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO1Mx4dITYyjvVH9ajqm_LPLG0hMoRLOn0ZcfWh=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO1Mx4dITYyjvVH9ajqm_LPLG0hMoRLOn0ZcfWh=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMl9M3hRPjAod5-nI9KGuQxQ048F3vtLPONkGN8=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMl9M3hRPjAod5-nI9KGuQxQ048F3vtLPONkGN8=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMcGAWw1ylyPTZAETh8RpXyVdWLc4crhitKwn0z=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMcGAWw1ylyPTZAETh8RpXyVdWLc4crhitKwn0z=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJ__SIhjYCAYUF1CGmQclFsTlI1yJVocA99Qdc=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPJ__SIhjYCAYUF1CGmQclFsTlI1yJVocA99Qdc=w3456-h4608-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMa-Dcr1YrFDgc0ZD9NArK4VrFtMz6BlZpPlsJT=w203-h272-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMa-Dcr1YrFDgc0ZD9NArK4VrFtMz6BlZpPlsJT=w2185-h2933-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x8806538554516db5%3A0x5616c2bb3da12e3b&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAACAAAAAAAAAAAABAACBCAAAAAAAAAgAAQIAgAAACABAAAAEAAAAAAAAAEAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAEAAAgAEAAAAABABAAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAEAAAAIAAAAAAAAAIAAAAAAAQAAAAQAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAGBRCVCmEIuPfjZVD6AEAACAAAAADAAAAIQQABAAAQAQBAACAAEQQIQQAC0hACQAAAgUAAgCQIADAEBAAAAACkACAIAFAEAAABAAALEAACCAAkAAAiAAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAACAAAAAAAAAAAABAACBCAAAAAAAAAgAAQIAgAAACABAAAAEAAAAAAAAAEAAAAAAAABAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAEAAAgAEAAAAABABAAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAEAAAAIAAAAAAAAAIAAAAAAAQAAAAQAAAAAAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAAAAAAABAAAAAGBRCVCmEIuPfjZVD6AEAACAAAAADAAAAIQQABAAAQAQBAACAAEQQIQQAC0hACQAAAgUAAgCQIADAEBAAAAACkACAIAFAEAAABAAALEAACCAAkAAAiAAAAA"
+    }
+}

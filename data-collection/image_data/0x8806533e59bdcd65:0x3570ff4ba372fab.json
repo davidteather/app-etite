@@ -1,0 +1,71 @@
+{
+    "search_metadata": {
+        "id": "63710eb3d04d6d505ef0a9fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cd51d1077ed717da/63710eb3d04d6d505ef0a9fd.json",
+        "created_at": "2022-11-13 15:35:15 UTC",
+        "processed_at": "2022-11-13 15:35:15 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x8806533e59bdcd65:0x3570ff4ba372fab!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/cd51d1077ed717da/63710eb3d04d6d505ef0a9fd.html",
+        "prettify_html_file": "https://serpapi.com/searches/cd51d1077ed717da/63710eb3d04d6d505ef0a9fd.prettify",
+        "total_time_taken": 1.09
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x8806533e59bdcd65:0x3570ff4ba372fab",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Menu",
+            "id": "CgIYIQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOIMGOQ5hsVpK-Y_mEcYuiIyjm28pIJR1mUMVfQ=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOIMGOQ5hsVpK-Y_mEcYuiIyjm28pIJR1mUMVfQ=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaKtzLn83JbOhKBqgh8ZyvrQSi8pFA1BFhn-na=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNaKtzLn83JbOhKBqgh8ZyvrQSi8pFA1BFhn-na=w720-h1280-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOa9tRaaWxs24fAFDymZBQMkLevMRuEI11o_0FP=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOa9tRaaWxs24fAFDymZBQMkLevMRuEI11o_0FP=w1836-h3264-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrgH71u17uEhHMH4pTIrZo2d13X6fXA9BDq2-k=w203-h269-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOrgH71u17uEhHMH4pTIrZo2d13X6fXA9BDq2-k=w3072-h4080-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8YiRcCxAggv9dqc_yAzXSi-tVbLFRFkbTVP00=w203-h269-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipM8YiRcCxAggv9dqc_yAzXSi-tVbLFRFkbTVP00=w3072-h4080-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNHHIUn5w7dzj2nJ67rQJWlB6IUSsIBI8PuY4Hr=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNHHIUn5w7dzj2nJ67rQJWlB6IUSsIBI8PuY4Hr=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOST2B06fyFDt6FReZDp_OTejJc5aZSuOzFQmi_=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOST2B06fyFDt6FReZDp_OTejJc5aZSuOzFQmi_=w3024-h4032-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x8806533e59bdcd65%3A0x3570ff4ba372fab&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAdCVCmEIuPfjZVD6AEAACAAAAADAAAAAAEAAAAAAMAQAAAAAAABBAAIAIAAAAAAAAwAAAgAACAQQgAAAAAEAAAAAAAAAAAABAQAAAAAAEAAAAAAAQAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAdCVCmEIuPfjZVD6AEAACAAAAADAAAAAAEAAAAAAMAQAAAAAAABBAAIAIAAAAAAAAwAAAgAACAQQgAAAAAEAAAAAAAAAAAABAQAAAAAAEAAAAAAAQAAAA"
+    }
+}

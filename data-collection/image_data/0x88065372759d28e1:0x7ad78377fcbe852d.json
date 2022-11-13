@@ -1,0 +1,87 @@
+{
+    "search_metadata": {
+        "id": "6371139f14b24541520545f7",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/92c3857584a55b14/6371139f14b24541520545f7.json",
+        "created_at": "2022-11-13 15:56:15 UTC",
+        "processed_at": "2022-11-13 15:56:15 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x88065372759d28e1:0x7ad78377fcbe852d!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/92c3857584a55b14/6371139f14b24541520545f7.html",
+        "prettify_html_file": "https://serpapi.com/searches/92c3857584a55b14/6371139f14b24541520545f7.prettify",
+        "total_time_taken": 2.03
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x88065372759d28e1:0x7ad78377fcbe852d",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Latest",
+            "id": "CgIgARICGAI"
+        },
+        {
+            "title": "Menu",
+            "id": "CgIYIQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Vibe",
+            "id": "CgIYIg"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP399L1xJbwFZ4LFapRcySq5Y3-QIko1djuaIoJ=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipP399L1xJbwFZ4LFapRcySq5Y3-QIko1djuaIoJ=w5312-h2988-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO7bEHUpLgDOC82586ukCxNG8E2_kURBNrkAdM=w203-h118-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO7bEHUpLgDOC82586ukCxNG8E2_kURBNrkAdM=w3969-h2321-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMAKYxj-37X79QZKNGjJT92XE-Vg9d2F0pqvqhq=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMAKYxj-37X79QZKNGjJT92XE-Vg9d2F0pqvqhq=w5312-h2988-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOl3NHcusMYURlKvdJs-vAim837MDAx4yYerm4H=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOl3NHcusMYURlKvdJs-vAim837MDAx4yYerm4H=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNE40ETw12BekRqF6WnJjebqCFEyrfjIOBjNoQB=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNE40ETw12BekRqF6WnJjebqCFEyrfjIOBjNoQB=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP54rRiiSeD9mFsIJX4bD0TktrogJFTV8IhUCC-=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipP54rRiiSeD9mFsIJX4bD0TktrogJFTV8IhUCC-=w2448-h3264-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMck2Qky0YF1YDTZHvcy95PfSDlya0tTToAL0iG=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMck2Qky0YF1YDTZHvcy95PfSDlya0tTToAL0iG=w1932-h2576-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPbrN6W_13SSsVTNxv9K6K3__JvsBTBRMyg-L7m=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPbrN6W_13SSsVTNxv9K6K3__JvsBTBRMyg-L7m=w1836-h3264-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x88065372759d28e1%3A0x7ad78377fcbe852d&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAYAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABQAAAAAAAAAGAhCVCmEIuPfjZVD6AEAACAAAAADAAAAEACgAAAIAAAAAAAAAAAAAAQAAABAAAAAAABAAAACBIAEJAEAAAAACCAAAAAIABABAIACAAAAQAAgAAIAAAAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAYAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABQAAAAAAAAAGAhCVCmEIuPfjZVD6AEAACAAAAADAAAAEACgAAAIAAAAAAAAAAAAAAQAAABAAAAAAABAAAACBIAEJAEAAAAACCAAAAAIABABAIACAAAAQAAgAAIAAAAAAA"
+    }
+}

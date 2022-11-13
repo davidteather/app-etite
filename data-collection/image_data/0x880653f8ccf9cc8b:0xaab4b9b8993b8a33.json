@@ -1,0 +1,91 @@
+{
+    "search_metadata": {
+        "id": "63710d5af8f5f7d9dfdbbdb3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/327441bee8716edb/63710d5af8f5f7d9dfdbbdb3.json",
+        "created_at": "2022-11-13 15:29:30 UTC",
+        "processed_at": "2022-11-13 15:29:30 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x880653f8ccf9cc8b:0xaab4b9b8993b8a33!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/327441bee8716edb/63710d5af8f5f7d9dfdbbdb3.html",
+        "prettify_html_file": "https://serpapi.com/searches/327441bee8716edb/63710d5af8f5f7d9dfdbbdb3.prettify",
+        "total_time_taken": 1.52
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x880653f8ccf9cc8b:0xaab4b9b8993b8a33",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Latest",
+            "id": "CgIgARICGAI"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Take-out",
+            "id": "Cg0KCS9tLzAxdzUzYjAB"
+        },
+        {
+            "title": "French fries",
+            "id": "CgwKCC9tLzAyeTZuMAE"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_6lt__0-dgbmoFKCWfqi1h3vmjlj9G7nJQp3_=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipP_6lt__0-dgbmoFKCWfqi1h3vmjlj9G7nJQp3_=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNAp4e9dUMODUEMPamjI4LzCeFprD8fgHLOzNpC=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNAp4e9dUMODUEMPamjI4LzCeFprD8fgHLOzNpC=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTP4I4vTDzb38bDx9RSwhdHDUH7vxg47fL1oSz=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOTP4I4vTDzb38bDx9RSwhdHDUH7vxg47fL1oSz=w1080-h1920-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOFs6JG5rgAjF8kZSQh3Q7sNAbCej_skrl7xQZ0=w203-h131-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOFs6JG5rgAjF8kZSQh3Q7sNAbCej_skrl7xQZ0=w1103-h717-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOZ4UW2IKKwTyF4IXREUV0d_5Xgpnrt7Pp4nyLG=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOZ4UW2IKKwTyF4IXREUV0d_5Xgpnrt7Pp4nyLG=w1080-h1920-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN1il0T-ODKR3M9neSQuk-0a0mM6Or0Gjll5AX5=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN1il0T-ODKR3M9neSQuk-0a0mM6Or0Gjll5AX5=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNL8taqpEj4OScvJ6WzCdHweINUNShfnscmaVPL=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNL8taqpEj4OScvJ6WzCdHweINUNShfnscmaVPL=w1080-h810-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgjvAHfRSTvXzt7w1G1VGViwupyetsnCDzbrNU=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPgjvAHfRSTvXzt7w1G1VGViwupyetsnCDzbrNU=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNCqkyVFBakgdHGjMLczUFlGEmJG33M0kGild0l=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNCqkyVFBakgdHGjMLczUFlGEmJG33M0kGild0l=w3024-h4032-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x880653f8ccf9cc8b%3A0xaab4b9b8993b8a33&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAAAABAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAACAAAAAAAAAAAAAAAEAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAlCVCmEIuPfjZVD6AEAACAAAAADAAAAACAAAQAAAAAhACAgAAAIAAAAAAAAAIAAAAAEAQIBQAAAgAQAAAAAAAAACIEBAEAIAAAIAAAAAAAACEAUEAAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAAAABAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAACAAAAAAAAAAAAAAAEAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAlCVCmEIuPfjZVD6AEAACAAAAADAAAAACAAAQAAAAAhACAgAAAIAAAAAAAAAIAAAAAEAQIBQAAAgAQAAAAAAAAACIEBAEAIAAAIAAAAAAAACEAUEAAAAA"
+    }
+}
