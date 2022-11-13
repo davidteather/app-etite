@@ -1,10 +1,13 @@
 .description {
   transition-duration: 0.5s;
   position: relative;
+  padding-top: 0.5%;
 }
 
 .old {
   position: absolute;
+  padding-top: 0.5%;
+  
   top: 0%;
   left: 0;
   right: 0;
