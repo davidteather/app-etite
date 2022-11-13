@@ -1,2 +1,2 @@
 # app-etite
-Discover a new place to eat
+Discover a new place to eat :)
