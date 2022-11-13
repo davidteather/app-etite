@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Filters from './Filters';
+import Filters from './components/Filters';
 import ImageSlides from './components/ImageSlides';
 import RestaurantData from './data.json';
 import RestaurantWrapper from './RestaurantWrapper';
@@ -15,8 +15,6 @@ function App() {
   
   // State for the filter
   const [filterValue, setFilters] = useState({ stars: 3, distance: 5, price: 2 });
-
-
 
   // Need to timeout before loading location data
   setTimeout(() => {
