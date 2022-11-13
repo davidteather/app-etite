@@ -19,6 +19,6 @@ jobs:
       with:
         node-version: 16
         cache: 'npm'
-        cache-dependency-path: app-etite/package-lock.json
+        cache-dependency-path: ./app-etite/package-lock.json
     - name: Build & Upload
       run: cd app-etite && npm run build && aws s3 sync ./build/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
