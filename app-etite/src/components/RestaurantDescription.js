@@ -17,13 +17,13 @@ function RestaurantDescription(props) {
         <h2>{props.restaurant.title} {props.restaurant.price}</h2>
         <h4>Stars: {props.restaurant.rating}</h4>
         <h4>{props.restaurant.address}</h4>
-        <a href={props.restaurant.website}><p>Website</p></a>
+        <a target="_blank" href={props.restaurant.website}><p>Website</p></a>
       </div>
       <div key={props.restaurant.address} className='old'>
         <h2>{oldRestaurant.title} {oldRestaurant.price}</h2>
         <h4>Stars: {oldRestaurant.rating}</h4>
         <h4>{oldRestaurant.address}</h4>
-        <a href={oldRestaurant.website}><p>Website</p></a>
+        <a target="_blank" href={oldRestaurant.website}><p>Website</p></a>
       </div>
     </div>
   );
