@@ -3,7 +3,7 @@ import "../styles/imageslides.css"
 import { FcInfo } from "react-icons/fc"
 
 function DetailsMenu(props) {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
 
   const menu = () => {
     setOpen(!open);
