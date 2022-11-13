@@ -16,13 +16,13 @@ function RestaurantDescription(props) {
   return (
     <div className='description'>
       <div key={props.restaurant.title} className='current'>
-        <h2>{props.restaurant.title} {props.restaurant.price}</h2>
+       <a href={props.restaurant.website} target="_blank"><h2>{props.restaurant.title} {props.restaurant.price}</h2></a>
         <Rating initialValue={Math.round(oldRestaurant.rating)} isHalf={true} readonly />
         {/* <h4>{props.restaurant.address}</h4>
         <a href={props.restaurant.website}><p>Website</p></a> */}
       </div>
       <div key={props.restaurant.address} className='old'>
-        <h2>{oldRestaurant.title} {oldRestaurant.price}</h2>
+      <a href={props.restaurant.website} target="_blank"><h2>{props.restaurant.title} {props.restaurant.price}</h2></a>
         <Rating initialValue={Math.round(oldRestaurant.rating)} allowFraction readonly />
         {/* <h4>{oldRestaurant.address}</h4>
         <a href={oldRestaurant.website}><p>Website</p></a> */}
