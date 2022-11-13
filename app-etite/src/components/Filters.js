@@ -68,7 +68,9 @@ function Filters(props) {
         </div>
       </div>
       <button onClick={() => { flipVisible() }}>
+        <div class="arrow-button">
         <AiOutlineArrowDown />
+        </div>
       </button>
     </div>
   );

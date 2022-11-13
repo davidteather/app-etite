@@ -62,18 +62,36 @@
 } */
 
 button {
-  background-color: transparent;
+  background-color: white;
+  border-radius: 100%;
+
   border: none;
   cursor: pointer;
   transition-duration: 0.5s;
-  font-size: 40px;
-  padding-right: 50px;
-
   margin-top: auto;
   margin-left: auto;
   margin-bottom: 0;
   margin-right: 0;
+  font-size: 40px;
+  margin-right: 2%;
+}
+
+.arrow-button img {
+  height: 0.1%;
+  width: auto;
 }
 .active button {
   transform: scaleY(-1);
+  background-color: transparent;
+}
+
+.arrow-button {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  padding: 3em;
+  margin: -3em;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
