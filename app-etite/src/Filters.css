@@ -1,18 +1,44 @@
-.filters {
-  z-index: 1;
+.dropdown {
   position: absolute;
+  z-index: 1;
   right: 0%;
-  display: flex;
-  transition-duration: 0.5s;
   width: 100%;
+  transition-duration: 0.5s;
+
+  display: flex;
 }
-.filters.inactive {
+.dropdown.inactive {
   height: 10px;
 }
-.filters.active {
-  height: 300px;
+.dropdown.active {
+  height: 200px;
   background-color: white;
-  visibility: visible;
+  align-items: center;
+
+}
+
+.filterContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  gap: 50px;
+  width: 100%;
+}
+
+.filter {
+  /* background-color: bisque;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 3px;
+  border-style: solid; */
+  padding: 2.5%;
+  white-space: pre-wrap;
+  text-align: center;
+  width: 200px;
+}
+.inactive .filter {
+  display: none;
+  visibility: hidden;
 }
 
 button {
@@ -26,24 +52,6 @@ button {
   margin-left: auto;
   margin-bottom: 0;
   margin-right: 0;
-}
-
-.inactive ul {
-  display: none;
-  visibility: hidden;
-}
-.inactive li {
-  display: none;
-  visibility: hidden;
-}
-
-.active ul {
-  display: flex;
-}
-.active li {
-  display: inline;
-  padding: 5px;
-  background-color: white;
 }
 .active button {
   transform: scaleY(-1);
