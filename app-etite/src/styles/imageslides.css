@@ -2,7 +2,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 2%;
 }
 
 .image-container {
@@ -11,12 +10,17 @@
     object-fit: cover; 
     float: left;
     position: relative;
+    margin-top: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    border-radius: 8px;
+
 }
 
 img {
     border-radius: 8px;
     width: 100%;
-    height: 75vh;
+    height: 85vh;
     object-fit: cover;
 }
 
@@ -25,7 +29,7 @@ img {
     
     left: 20%;
     right: 20%;
-    background-color: aliceblue;
+    background-color: #8D99AE;
     padding: 2.4%;
     border-style: solid;
     border-width: 5px;
@@ -87,11 +91,13 @@ img {
     right: 0;
     margin: auto;
 
+
     animation: slide_out 0.5s forwards;
 }
 
 .current {
-    animation: slide_in 0.5s forwards;  
+    animation: slide_in 0.5s forwards; 
+    border-radius: 8px; 
 }
 
 @keyframes slide_in {

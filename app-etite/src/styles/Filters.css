@@ -11,9 +11,13 @@
   height: 10px;
 }
 .dropdown.active {
-  height: 15vh;
-  background-color: white;
+  height: 17vh;
+  background-color: #FFFCF2;
   align-items: center;
+  border-bottom: #575761;
+  border-bottom-style:double;
+  border-width: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 @media only screen and (max-width: 800px) {
@@ -46,15 +50,17 @@
 }
 
 .filter {
-  /* background-color: bisque;
+  background-color: transparent;
   border-radius: 10px;
-  border-color: black;
-  border-width: 3px;
-  border-style: solid; */
-  padding: 2.5%;
+  border-color: #403D39;
+  border-width: 2px;
+  border-style: hidden;
+  padding: 1.5%;
+  margin: 1%;
   white-space: pre-wrap;
   text-align: center;
   width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /* .inactive .filter {
   display: none;
