@@ -12,8 +12,17 @@
   left: 0;
   right: 0;
   margin: auto;
-  
-  animation: slide_out 0.5s forwards;
+  animation: slide_out 0.5s forwards, fadeOut 0.1s forwards 1s;
+}
+
+@-webkit-keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0; display: none; visibility: hidden;}
+}
+
+@keyframes fadeOut {
+  0% {opacity: 1;}
+  100% {opacity: 0; display: none; visibility: hidden;}
 }
 
 .current {
@@ -21,13 +30,14 @@
 }
 
 @keyframes slide_in {
-  0% { transform: translateX(-100%); }
+  0% { transform: translateX(-100%); display: none; visibility: hidden; }
   100% { transform: translateX(0%); }
 }
 
 @keyframes slide_out {
   0% { transform: translateX(0%); }
-  100% { transform: translateX(100%); }
+  75% { transform: translateX(100%); display: none; visibility: hidden; }
+  100% { transform: translateX(0%); display: none; visibility: hidden; }
 }
 
 a {
