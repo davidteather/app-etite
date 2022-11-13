@@ -22,6 +22,11 @@ def iterate_return(data, raw):
             restaurant['thumbnail'] = f"{thumbnail}=w1920-h1080"
             data[restaurant['place_id']] = restaurant
 
+            
+            lat = restaurant['gps_coordinates']['latitude']
+            lon = restaurant['gps_coordinates']['longitude']
+            restaurant['google_maps_url'] = f"https://www.google.com/maps/place/{restaurant['title']}/@{lat},{lon},17z/data=!3m1!4b1!4m5!3m4!1s{restaurant['data_id']}!8m2!3d{lat}!4d{lon}"
+
             raw_photos_path = "image_data/" + restaurant['data_id'] + ".json"
             if os.path.exists(raw_photos_path):
                 with open(raw_photos_path) as f:
