@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Filters from './Filters';
 import ImageSlides from './components/ImageSlides';
 import RestaurantData from './data.json';
