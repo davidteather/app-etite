@@ -11,7 +11,7 @@
   height: 10px;
 }
 .dropdown.active {
-  height: 200px;
+  height: 40%;
   background-color: white;
   align-items: center;
 
@@ -21,8 +21,12 @@
   display: flex;
   flex-wrap: wrap;
   align-content: space-between;
-  gap: 50px;
+  gap: 5%;
   width: 100%;
+  margin: auto;
+  width: 50%;
+  margin-left: 32%;
+  margin-right: 20%;
 }
 
 .filter {

@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { AiOutlineArrowDown } from 'react-icons/ai';
 import './Filters.css';
-import ReactSlider from "react-slider";
 
 function Filter(props) {
   const [data, setData] = useState(props.def)
@@ -22,6 +21,8 @@ function Filter(props) {
 function Filters() {
   const [visible, setVisible] = useState(false);
   const [stars, setStars] = useState(1);
+  const [distance, setDistance] = useState(20);
+  const [price, setPrice] = useState(50);
 
   const flipVisible = () => {
     setVisible(!visible)
@@ -35,12 +36,12 @@ function Filters() {
           Minimum Stars: {stars}
         </div>
         <div class="filter">
-          <Filter min="1" max="5" def="1" setData={setStars} />
-          Minimum Stars: {stars}
+          <Filter min="1" max="20" def="20" setData={setDistance} />
+          Max Distance: {distance}
         </div>
         <div class="filter">
-          <Filter min="1" max="5" def="1" setData={setStars} />
-          Minimum Stars: {stars}
+        <Filter min="5" max="60" def="50" setData={setPrice} />
+          Max Price: {price}
         </div>
         <div class="filter">
           <Filter min="1" max="5" def="1" setData={setStars} />
