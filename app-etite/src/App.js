@@ -9,8 +9,13 @@ import React, { useState } from 'react';
 
 function getRandomRestaurant(location) {
   var RestaurantKeys = Object.keys(RestaurantData);
-  var randomKey = RestaurantKeys[Math.floor(Math.random() * RestaurantKeys.length)];
-  return RestaurantData[randomKey];
+  while (true) {
+    var randomKey = RestaurantKeys[Math.floor(Math.random() * RestaurantKeys.length)];
+    var restaurant = RestaurantData[randomKey];
+    if (restaurant.thumbnail) {
+      return restaurant;
+    }
+  }
 }
 
 function App() {
@@ -21,11 +26,16 @@ function App() {
   function newRestaurantGenerator() {
     setRestaurant(getRandomRestaurant(location));
   }
-  const [restaurant, setRestaurant] = useState(getRandomRestaurant(location));
+  function onKey(e) {
+    if (e.keyCode === 32) {
+      newRestaurantGenerator();
+    }
+  }
+  const [restaurant, setRestaurant] = useState(getRandomRestaurant());
   return (
-    <div className="App">
-      <Filters />
-      <RestaurantWrapper restaurant={restaurant} newGenerator={newRestaurantGenerator} />
+    <div className="App" tabIndex="0" onKeyDown={onKey}>
+      <Filters/>
+      <RestaurantWrapper restaurant={restaurant} newGenerator={newRestaurantGenerator}/>
     </div>
   );
 }
