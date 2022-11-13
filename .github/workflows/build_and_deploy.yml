@@ -5,19 +5,20 @@ on:
     branches:
     - main
 
+env:
+  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  AWS_DEFAULT_REGION: 'us-east-1'
+
 jobs:
   deploy:
     timeout-minutes: 15
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
-    - uses: jeanlescure/react-deploy-to-s3-action@main
+    - uses: actions/setup-node@v3
       with:
-        args: --acl public-read --follow-symlinks --delete
-      env:
-        NODE_ENV: production
-        AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET_NAME }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: us-east-1 # optional: defaults to us-east-1
-        SOURCE_DIR: app-etite # optional: defaults to public
+        node-version: 16
+        cache: 'npm'
+        cache-dependency-path: app-etite/package-lock.json
+    - name: Build & Upload
+      run: cd app-etite && npm run build && aws s3 sync ./build/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
