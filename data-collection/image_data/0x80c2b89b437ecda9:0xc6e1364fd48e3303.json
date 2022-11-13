@@ -1,0 +1,171 @@
+{
+    "search_metadata": {
+        "id": "637113d70ead41aa69ab6750",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d7a1e7c8bef33138/637113d70ead41aa69ab6750.json",
+        "created_at": "2022-11-13 15:57:11 UTC",
+        "processed_at": "2022-11-13 15:57:11 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x80c2b89b437ecda9:0xc6e1364fd48e3303!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/d7a1e7c8bef33138/637113d70ead41aa69ab6750.html",
+        "prettify_html_file": "https://serpapi.com/searches/d7a1e7c8bef33138/637113d70ead41aa69ab6750.prettify",
+        "total_time_taken": 2.13
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x80c2b89b437ecda9:0xc6e1364fd48e3303",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Latest",
+            "id": "CgIgARICGAI"
+        },
+        {
+            "title": "Videos",
+            "id": "CgIgARICCAQ"
+        },
+        {
+            "title": "Menu",
+            "id": "CgIYIQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Vibe",
+            "id": "CgIYIg"
+        },
+        {
+            "title": "Take-out",
+            "id": "Cg0KCS9tLzAxdzUzYjAB"
+        },
+        {
+            "title": "Hot pot",
+            "id": "Cg0qCS9tLzA0eTBfeDAL"
+        },
+        {
+            "title": "Banchan",
+            "id": "Cg0qCS9tLzBmM3dnNzAL"
+        },
+        {
+            "title": "Dak-galbi",
+            "id": "Cg4qCi9tLzA0bGZzeHowCw"
+        },
+        {
+            "title": "Gyeran-jjim",
+            "id": "Cg4qCi9tLzBiNmdxNzUwCw"
+        },
+        {
+            "title": "Kimchi",
+            "id": "Cg0qCS9tLzAxOGR6XzAL"
+        },
+        {
+            "title": "Sake",
+            "id": "CgwqCC9tLzA3MXRmMAs"
+        },
+        {
+            "title": "Mongolian barbecue",
+            "id": "Cg4qCi9tLzAycV85dmswCw"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObttIwmYvw_1pNSXD4NdRPFn6qBNjja7Uijcnz=w203-h151-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipObttIwmYvw_1pNSXD4NdRPFn6qBNjja7Uijcnz=w640-h479-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMDselrpRnhZorSAmghJ-dW78kmXswUMnS9yUzx=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMDselrpRnhZorSAmghJ-dW78kmXswUMnS9yUzx=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN3TgS4j2L11u5uI3Yh6ZVWptfUFumy-vzXCavz=w203-h253-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN3TgS4j2L11u5uI3Yh6ZVWptfUFumy-vzXCavz=w1440-h1800-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNAT65i7wcwwWdPli3v9xvyjh7ek06Y2TxTH0eg=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNAT65i7wcwwWdPli3v9xvyjh7ek06Y2TxTH0eg=w2160-h2880-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNwQoomof5bXaCyi6R3SyL17ama-YxKi_a5vd-f=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNwQoomof5bXaCyi6R3SyL17ama-YxKi_a5vd-f=w4032-h2268-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrdO7b7XUht46RvfEuMcHHqbvibJzJpynEaDLS=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOrdO7b7XUht46RvfEuMcHHqbvibJzJpynEaDLS=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO_l3z2LiRAcKReYgwlM0DUONKlZRCCcKR_QwGc=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO_l3z2LiRAcKReYgwlM0DUONKlZRCCcKR_QwGc=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN0c0-7l2LioGVRL1DPaN8HniituENiJYt_0op9=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN0c0-7l2LioGVRL1DPaN8HniituENiJYt_0op9=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOUVZ7uIHf_yoAqodhKdD_pNL4uK-LcMX1VZTL_=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOUVZ7uIHf_yoAqodhKdD_pNL4uK-LcMX1VZTL_=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN84jqroSg9nxq6CCEX06QbqPCgIhCdQcIIEGD1=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN84jqroSg9nxq6CCEX06QbqPCgIhCdQcIIEGD1=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPcZbIg4nQatHZa5LTPv5r7bt7_UUh886Iibpf8=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPcZbIg4nQatHZa5LTPv5r7bt7_UUh886Iibpf8=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkjkVLrJqmzWotxFn9SwaoTCH4iEXWIOzmYy-m=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPkjkVLrJqmzWotxFn9SwaoTCH4iEXWIOzmYy-m=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhZUuEjQLAFYMH2ZqwmaQIoPXWeJrrTxowSfvb=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMhZUuEjQLAFYMH2ZqwmaQIoPXWeJrrTxowSfvb=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaUSUwUah0EAEwn8j2KZEUXLz6l3zUxVdxNN9a=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNaUSUwUah0EAEwn8j2KZEUXLz6l3zUxVdxNN9a=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcdopiPUZICvBlJepShUA7PP-h-H0eDybA5KL8=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNcdopiPUZICvBlJepShUA7PP-h-H0eDybA5KL8=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwIlYE53-Z8PVSiOk6wYDfznTTLOVvhULKrYDm=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMwIlYE53-Z8PVSiOk6wYDfznTTLOVvhULKrYDm=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMqb73B7xnDJ2l-ehqk_Zo9RzCtP4vVoGHZISDa=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMqb73B7xnDJ2l-ehqk_Zo9RzCtP4vVoGHZISDa=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOnkKDhQCWCaBmM-_kttELs_tPKqoK0XgJIhh3c=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOnkKDhQCWCaBmM-_kttELs_tPKqoK0XgJIhh3c=w1276-h1702-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNyU9cCDD7f3LmCH563G7LvRcc1Fn5Qu5xuN3h1=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNyU9cCDD7f3LmCH563G7LvRcc1Fn5Qu5xuN3h1=w348-h348-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPiyJ72SolpqIzVyWEQfq5NHgaZKt2vcKxfUN0w=w203-h203-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPiyJ72SolpqIzVyWEQfq5NHgaZKt2vcKxfUN0w=w348-h348-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x80c2b89b437ecda9%3A0xc6e1364fd48e3303&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAgAAIAEBAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAgAAACAAAAAAAgAAIAAAgAAAAAAAAAAAAAAAAgAAAAEAEAAAAAAAAAAAAAAAAAACAAAAABEAAAAAAAAgAAAAAAAAAAAAAAAEAAAgQEAAAAAAAAAAAIAAAAABAAAAAAAAAAIAAAAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAIAAAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAABAACAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAgAAAAAEAAAAAAAAIAAAAACAQAAAAAAAAAAAAAAAAAAAAGBRCVCmEIuPfjZVD6AEAACAAAAADAAAAAAAnQAEAAEAAIBAJQgYECEBLEAAggCAkAAIAAAAiDAASAEAADAAgAQAAEgAQAEABgJACEIQQAUAgAAAAMAAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAgAAIAEBAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAAAAAAgAAACAAAAAAAgAAIAAAgAAAAAAAAAAAAAAAAgAAAAEAEAAAAAAAAAAAAAAAAAACAAAAABEAAAAAAAAgAAAAAAAAAAAAAAAEAAAgQEAAAAAAAAAAAIAAAAABAAAAAAAAAAIAAAAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAIAAAACAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAABAACAAEAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAgAAAAAEAAAAAAAAIAAAAACAQAAAAAAAAAAAAAAAAAAAAGBRCVCmEIuPfjZVD6AEAACAAAAADAAAAAAAnQAEAAEAAIBAJQgYECEBLEAAggCAkAAIAAAAiDAASAEAADAAgAQAAEgAQAEABgJACEIQQAUAgAAAAMAAAAA"
+    }
+}

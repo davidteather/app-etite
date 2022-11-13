@@ -1,0 +1,95 @@
+{
+    "search_metadata": {
+        "id": "63711395f716ee99804c9f03",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5a570794f5299d01/63711395f716ee99804c9f03.json",
+        "created_at": "2022-11-13 15:56:05 UTC",
+        "processed_at": "2022-11-13 15:56:05 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x880653121519304f:0x71c8744a3e2ed2cf!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/5a570794f5299d01/63711395f716ee99804c9f03.html",
+        "prettify_html_file": "https://serpapi.com/searches/5a570794f5299d01/63711395f716ee99804c9f03.prettify",
+        "total_time_taken": 0.47
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x880653121519304f:0x71c8744a3e2ed2cf",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Menu",
+            "id": "CgIYIQ"
+        },
+        {
+            "title": "Videos",
+            "id": "CgIgARICCAQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "Vibe",
+            "id": "CgIYIg"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYkIAouGQIL_hh2K7BAbFIzh0wpl3UOO0mtEi1=w203-h211-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOYkIAouGQIL_hh2K7BAbFIzh0wpl3UOO0mtEi1=w1124-h1173-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzNg5ZTXN4A7emLD_SfWtkJHo-Q_T9tApZLkN5=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOzNg5ZTXN4A7emLD_SfWtkJHo-Q_T9tApZLkN5=w1152-h648-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO046kbEfgeVv2dB_GSWKgRsUQOMbDbTiPOsyA2=w203-h252-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipO046kbEfgeVv2dB_GSWKgRsUQOMbDbTiPOsyA2=w1242-h1544-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7-DxBsY1qK-XbaVOO5_C1YBrBeelQAVYh-5f8=w203-h236-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipN7-DxBsY1qK-XbaVOO5_C1YBrBeelQAVYh-5f8=w1758-h2048-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOuBrdTmU0z6d7CT7wEbGC5PpPQvFB-1z02JSEE=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOuBrdTmU0z6d7CT7wEbGC5PpPQvFB-1z02JSEE=w648-h1152-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPfLJQtZrL-LWWuC92KWisUqERhvt4Q-el7ldh=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOPfLJQtZrL-LWWuC92KWisUqERhvt4Q-el7ldh=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhtIQQi_lD2tBXfBjivaahkmWG4jJgxMc69zoW=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMhtIQQi_lD2tBXfBjivaahkmWG4jJgxMc69zoW=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOhRc1n8fp32eXMv8Nbq1go6rA23vAQyC5P-Txm=w203-h360-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOhRc1n8fp32eXMv8Nbq1go6rA23vAQyC5P-Txm=w648-h1152-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOaKVRtsU6G1jnWK-nKRsV4Edc7Zp7-B-7pKwgx=w203-h270-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOaKVRtsU6G1jnWK-nKRsV4Edc7Zp7-B-7pKwgx=w3024-h4032-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBK-Drl62Ps0jaQ8i77zeMcszv1CmSW2afssPY=w203-h269-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMBK-Drl62Ps0jaQ8i77zeMcszv1CmSW2afssPY=w648-h859-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNy8fuHLh8mngP9kIQI6iv7OwodpaZXKqyJqxGI=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNy8fuHLh8mngP9kIQI6iv7OwodpaZXKqyJqxGI=w4032-h3024-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x880653121519304f%3A0x71c8744a3e2ed2cf&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAGAtCVCmEIuPfjZVD6AEAACAAAAADAAAAAACAACAAIAABIAAiAAAAEAQACIAAQABgAAAAQAAgAAAAQCAAgAAQAAIAAEBCAAAAIAACQAEAABAAAhAAAgAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAgAAAAAABAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAAGAtCVCmEIuPfjZVD6AEAACAAAAADAAAAAACAACAAIAABIAAiAAAAEAQACIAAQABgAAAAQAAgAAAAQCAAgAAQAAIAAEBCAAAAIAACQAEAABAAAhAAAgAAAA"
+    }
+}

@@ -6,6 +6,12 @@ import os
 
 data = {}
 
+'''
+{
+    "error": "Your searches for the month are exhausted. You can upgrade plans on SerpApi.com website."
+}
+'''
+
 def iterate_return(data, raw):
     # Update thumbnail to have param of w1920-h1080 not the thumbnail one go full res
     for restaurant in raw.get('local_results', []):
@@ -15,6 +21,15 @@ def iterate_return(data, raw):
             thumbnail = restaurant['thumbnail'].split("=")[0]
             restaurant['thumbnail'] = f"{thumbnail}=w1920-h1080"
             data[restaurant['place_id']] = restaurant
+
+            raw_photos_path = "image_data/" + restaurant['data_id'] + ".json"
+            if os.path.exists(raw_photos_path):
+                with open(raw_photos_path) as f:
+                    images = json.load(f)
+                    photos = images.get('photos')
+                    if photos is not None:
+                        full_link = photos[0]['image'].split("=")[0]
+                        restaurant['thumbnail'] = f"{full_link}=w1920-h1080"
 
 for file in os.listdir("data_raw"):
     if file.endswith(".json"):

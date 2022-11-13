@@ -1,0 +1,71 @@
+{
+    "search_metadata": {
+        "id": "63711379d036a7d121d82d1d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4cb9c3391be9f708/63711379d036a7d121d82d1d.json",
+        "created_at": "2022-11-13 15:55:37 UTC",
+        "processed_at": "2022-11-13 15:55:37 UTC",
+        "google_maps_photos_url": "https://www.google.com/maps/preview/photo?hl=en&pb=!1e2!3m3!1s0x880677bf1b567a4b:0x21474c944fad984f!9e0!11s!5m58!2m2!1i203!2i100!3m2!2i20!5b1!7m50!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e3!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e3!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!6m3!1s!2z!7e81!16m4!1m1!1BCgIYIA!2b1!4e1",
+        "raw_html_file": "https://serpapi.com/searches/4cb9c3391be9f708/63711379d036a7d121d82d1d.html",
+        "prettify_html_file": "https://serpapi.com/searches/4cb9c3391be9f708/63711379d036a7d121d82d1d.prettify",
+        "total_time_taken": 1.58
+    },
+    "search_parameters": {
+        "engine": "google_maps_photos",
+        "data_id": "0x880677bf1b567a4b:0x21474c944fad984f",
+        "hl": "en",
+        "category_id": "CgIYIA"
+    },
+    "categories": [
+        {
+            "title": "All",
+            "id": "CgIgAQ"
+        },
+        {
+            "title": "Food & drink",
+            "id": "CgIYIA"
+        },
+        {
+            "title": "French fries",
+            "id": "CgwKCC9tLzAyeTZuMAE"
+        },
+        {
+            "title": "By owner",
+            "id": "CgIgARICEAE"
+        },
+        {
+            "title": "Street View & 360\u00b0",
+            "id": "CgIgARICCAI"
+        }
+    ],
+    "photos": [
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPrOda0uRwXl8fry62y1BQuo6HBuGB5Btkm9F4P=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipPrOda0uRwXl8fry62y1BQuo6HBuGB5Btkm9F4P=w4032-h2268-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOT8DA2UDVdokgIPhDyGyWfPMwSMWkLPoyc8CO6=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOT8DA2UDVdokgIPhDyGyWfPMwSMWkLPoyc8CO6=w4032-h2268-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrXvZqPGR4E7j0kxAMA8RB3vo8ghHBlGlcMQtI=w203-h152-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNrXvZqPGR4E7j0kxAMA8RB3vo8ghHBlGlcMQtI=w4032-h3024-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMfCxPOcfFTGJvV5rVlKYn8UH-UssDLS_U-z3Ii=w203-h101-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMfCxPOcfFTGJvV5rVlKYn8UH-UssDLS_U-z3Ii=w4160-h2080-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNNHx3Fd4EV4xjotyOS9pLOYP1FGX6t_j3nW5dj=w203-h114-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNNHx3Fd4EV4xjotyOS9pLOYP1FGX6t_j3nW5dj=w4032-h2268-k-no"
+        },
+        {
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMEjGfikrecKBajzmgndbP939Rd3NsHOJL8FZE=w203-h250-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipMEjGfikrecKBajzmgndbP939Rd3NsHOJL8FZE=w551-h681-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?category_id=CgIYIA&data_id=0x880677bf1b567a4b%3A0x21474c944fad984f&engine=google_maps_photos&hl=en&next_page_token=EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAGAZCVCmEIuPfjZVD6AEAACAAAAADAAAAIAAIAAAAAIAAAAAACAAEAQAAAAAAACAAAgAAAAAAAAAAIABIAAAAAAAAAAAAAASAAAAAgIAECABAAAAAAAAAAA",
+        "next_page_token": "EvgDKYQi49-NlUMIDwAAAAEAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAGAZCVCmEIuPfjZVD6AEAACAAAAADAAAAIAAIAAAAAIAAAAAACAAEAQAAAAAAACAAAgAAAAAAAAAAIABIAAAAAAAAAAAAAASAAAAAgIAECABAAAAAAAAAAA"
+    }
+}
